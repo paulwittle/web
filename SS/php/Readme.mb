@@ -1,0 +1,5 @@
+I've moved the files from here into the new folder structure
+
+The external files are stored under lib and the scripting written for the application is stored under src.
+
+When creating a live version for a site the external scripts will need to be copied from external to lib. 
